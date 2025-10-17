@@ -1,9 +1,11 @@
 <div align="center">
 
-# <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNzYnYyYzhxZmpvdmZ3YWIzNXE5bjF2MjI3Ym43a2N1YjFhczg4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="100"/>  Hi there, I'm Rivaldo Portez 
+# Hi there, I'm Rivaldo Portez 
 
 **Full Stack Developer.**
 From curiosity to creation — I build, learn, and grow through every line of code.
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNzYnYyYzhxZmpvdmZ3YWIzNXE5bjF2MjI3Ym43a2N1YjFhczg4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="200"/> 
 
 ## About Me
 
